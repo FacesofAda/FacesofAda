@@ -1,4 +1,4 @@
-### HI 👋
+### HI This repository is for all of those who know absolutely nothing about how any of this works and want to learn how to change their lives and possibly the world through my experience. 👋
 
 <!--
 **FacesofAda/FacesofAda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
